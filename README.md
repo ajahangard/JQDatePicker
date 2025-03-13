@@ -1,6 +1,8 @@
 # JQDatePicker
 Date Picker for asp.net webforms
 
+Originates from http://hasheminezhad.com/jqdatepicker which is no longer available!
+
 # Usage
 
 Register the component on Page or User control:
